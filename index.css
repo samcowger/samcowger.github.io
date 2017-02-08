@@ -10,8 +10,17 @@ h1 {
     font-size: 48px;
 }
 
+h2 {
+    text-align: center;
+}
+
 p {
-    color: white;
+    color: #072b66;
+    text-align: center;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 18px;
 }
 
 img {
@@ -22,11 +31,11 @@ img {
 }
 
 .link {
-    font-size: 36px;
+    font-size: 30px;
     text-align: right;
     padding-right: 20px;
     font-family: helvetica;
-    font-weight: bolder;
+    font-weight: bold;
     text: #000000;
 }
 
