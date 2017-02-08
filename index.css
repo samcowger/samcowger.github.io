@@ -1,5 +1,6 @@
 body {
-    background-color: #abd1ff;
+    background-color: #67aofc;
+    background: linear-gradient(to bottom right, blue, yellow);
 }
 
 h1 {
@@ -7,11 +8,10 @@ h1 {
     font-family: helvetica;
     font-weight: bold;
     font-size: 48px;
-    text-shadow: 1px 1px #999999;
 }
 
 h2 {
-    font-size: 30px;
+    font-size: 26px;
     text-align: center;
     font-family: helvetica;
 }
@@ -57,6 +57,7 @@ img {
 #resume {
     text-align: left;
     margin-left: 20%;
+    margin-right: 20%;
 }
 
 .resume_section {
