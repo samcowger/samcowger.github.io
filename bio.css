@@ -13,16 +13,11 @@ p {
     color: white;
 }
 
-img {
-    width: 30%;
-    margin-left: 35%;
-    margin-right: 35%;
-}
-
 .link {
     font-size: 36px;
+    position: relative;
     text-align: right;
-    padding-right: 20px;
+    padding: 29% 26% 30% 16%;
     font-family: helvetica;
     font-weight: bolder;
 }

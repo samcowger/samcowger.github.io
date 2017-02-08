@@ -3,6 +3,7 @@ body {
 }
 
 h1 {
+    font-stretch: extra-expanded;;
     text-align: center;
     font-family: helvetica;
     font-weight: bold;
@@ -14,9 +15,10 @@ p {
 }
 
 img {
+    display: block;
     width: 30%;
-    margin-left: 35%;
-    margin-right: 35%;
+    margin: auto;
+    border: 5px solid black;
 }
 
 .link {
@@ -25,4 +27,15 @@ img {
     padding-right: 20px;
     font-family: helvetica;
     font-weight: bolder;
+    text: #000000;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
 }
